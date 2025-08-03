@@ -1,7 +1,7 @@
 /* Apply a modern font and background gradient */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(to right, #6dd5ed, #2193b0);
+    background: linear-gradient(to right, #e70a9e, #d8f004);
     margin: 0;
     padding: 0;
 }
@@ -48,13 +48,13 @@ select {
 
 input:focus,
 select:focus {
-    border-color: #2193b0;
+    border-color: #09d847;
     outline: none;
 }
 
 /* Button styling */
 button {
-    background-color: #2193b0;
+    background-color:#00fff2;
     color: white;
     padding: 12px;
     border: none;
